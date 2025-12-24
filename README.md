@@ -67,7 +67,7 @@ An advanced computer vision project using hand tracking and laser pointing techn
 
 <div align="center">
 
-[**LinkedIn**](https://linkedin.com/in/abhishek2586) | [**Twitter/X**](https://twitter.com/abhishek2586) | [**GitHub**](https://github.com/Abhishek2586)
+[**LinkedIn**](https://linkedin.com/in/abhishekbhangdiya) | [**GitHub**](https://github.com/Abhishek2586)
 
 </div>
 
