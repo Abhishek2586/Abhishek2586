@@ -1,119 +1,151 @@
-# 🚀 ABHISHEK BHANGDIYA
+# ✨ ABHISHEK BHANGDIYA ✨
+## Code Architect | AI/ML Innovator | Problem Solver
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Healthcare+Tech;Full-Stack+Architect;System+Optimizer;Healthcare+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+AI/ML+Developer;Building+Tomorrow's+Solutions;Coding+Intelligence+%7C+Healthcare+Impact" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <b>B.Tech CSE AI/ML | VIT Pune | Year 2</b> <br>
-  <i>🚀 Coding Intelligence | 🏥 Healthcare Impact | 🚀 Problem Solver</i>
-</p>
+<br>
 
 ---
 
-## 🎉 PROJECTS ECOSYSTEM
-
-### 🏙️ SY PROJECTS (4 Innovations)
+## 🎯 About Me
 
 ```
-╔═══════════════════════════════╗
-║  🏙️ URBANNEST  ║  🫁 LUNG DETECTION  ║
-╠════════════════╪════════════════╧
-║ DBMS | SQL | Full Stack  ║ TypeScript | AI | TensorFlow ║
-╟────────────────╢────────────────╘
-║  ⚡ Dashboard       ║  🧰 ML Model      ║
-║  💳 Billing System ║  📊 Analytics    ║
-║  📁 Records DB    ║  ✅ 95% Accuracy   ║
-║  💬 Complaints    ║  🎯 Real-time      ║
-╚════════════════╫════════════════╝
-
-╔═══════════════════════════════╗
-║  ⏰ JOB SCHEDULER  ║  👥 HR MANAGEMENT║
-╠════════════════╪════════════════╧
-║ C | DSA | Algorithms║ Java | OOP | Design    ║
-╟────────────────╢────────────────╘
-║  › FCFS          ║  👤 Employee DB  ║
-║  › Priority      ║  💰 Payroll Auto ║
-║  › Round Robin   ║  📅 Attendance   ║
-║  › SJF (40%⚡)   ║  📑 Analytics    ║
-╚════════════════╫════════════════╝
-```
-
-### 🎵 FY PROJECTS (Foundation)
-
-| 🎵 | Tech | Impact | Stars |
-|---|------|--------|-------|
-| 🎮 **Fruit Ninja** | Python/Pygame | Game Dev | ⭐⭐⭐⭐ |
-| 💰 **Finance Site** | Full-Stack/HTML | Web Dev | ⭐⭐⭐⭐ |
-| ❤️ **NEXORA** | TypeScript/React | Healthcare | ⭐⭐⭐⭐⭐ |
-| 🎯 **LaserTracker** | Python/OpenCV | Vision AI | ⭐⭐⭐⭐⭐ |
-
----
-
-## 🚀 SKILL CONSTELLATION
-
-```
-💫 CORE            🤖 INTELLIGENCE      🚠 ARCHITECTURE
-█████ Python         ████ TensorFlow      ████ Algorithms
-█████ SQL           ████ Deep Learning   ████ System Design
-████ TypeScript    ███ Medical AI      ████ OOP Patterns
-███ C/Java        ███ Image Proc      ███ Databases
+┌─────────────────────────────────────────┐
+│  📍 B.Tech CSE AI/ML | Year 2 | VIT Pune │
+│  🎓 Focus: Medical AI & Automation       │
+│  💡 Passion: Problem Solving & Innovation │
+│  🚀 Building: Healthcare Solutions        │
+└─────────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 DEVELOPER METRICS
+## 🏆 SY Projects Ecosystem
+
+<table>
+<tr>
+  <td align="center" width="25%">
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
+    <b>🏢 UrbanNest</b><br>
+    <sub>Society Management<br>DBMS | SQL</sub><br>
+    ⭐⭐⭐⭐⭐
+    </div>
+  </td>
+  <td align="center" width="25%">
+    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px;">
+    <b>🫁 Lung</b><br>
+    <sub>Nodule Detection<br>ML | Medical AI</sub><br>
+    ⭐⭐⭐⭐⭐
+    </div>
+  </td>
+  <td align="center" width="25%">
+    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px;">
+    <b>📅 Job Scheduling</b><br>
+    <sub>Algorithm | C++<br>Optimization</sub><br>
+    ⭐⭐⭐⭐⭐
+    </div>
+  </td>
+  <td align="center" width="25%">
+    <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 10px;">
+    <b>👥 Employee</b><br>
+    <sub>Management System<br>OOP</sub><br>
+    ⭐⭐⭐⭐⭐
+    </div>
+  </td>
+</tr>
+</table>
+
+---
+
+## 🎪 FY Projects Showcase
+
+```
+╔════════════════════════════════════════════════╗
+║  🔮 First Year Innovation Hub                  ║
+╠════════════════════════════════════════════════╣
+║  💚 Nexora Health        ◆ Healthcare Tech    ║
+║  🔴 Laser Hand Tracker   ◆ Computer Vision    ║
+║  💰 Finance Website      ◆ Web Dev            ║
+║  🍎 Fruit Ninja Pro      ◆ Game Dev           ║
+╚════════════════════════════════════════════════╝
+```
+
+---
+
+## ⚡ Tech Arsenal
+
+<table>
+<tr>
+<td><b>Languages</b><br>Python | C/C++ | SQL<br>JavaScript | HTML/CSS</td>
+<td><b>AI/ML Tools</b><br>TensorFlow | Keras<br>OpenCV | Scikit-learn</td>
+<td><b>Databases</b><br>MySQL | MongoDB<br>Firebase</td>
+</tr>
+<tr>
+<td><b>Frameworks</b><br>Django | Flask<br>FastAPI</td>
+<td><b>Cloud & Tools</b><br>Git | Docker<br>VS Code | Jupyter</td>
+<td><b>Specialization</b><br>Medical Imaging<br>Healthcare AI</td>
+</tr>
+</table>
+
+---
+
+## 📊 Development Flow
+
+```
+🧠 IDEATE → 🔧 BUILD → 🧪 TEST → 🚀 DEPLOY → 📈 OPTIMIZE
+   ↓         ↓         ↓         ↓           ↓
+  Concept   Code     Quality   Launch     Performance
+```
+
+---
+
+## 🎓 Competency Matrix
+
+| Skill | Proficiency | Level |
+|-------|-------------|-------|
+| Python & AI/ML | ████████░░ | 80% |
+| Database Design | ███████░░░ | 70% |
+| Problem Solving | █████████░ | 90% |
+| Full Stack Dev | ██████░░░░ | 60% |
+| Medical AI | ████████░░ | 80% |
+
+---
+
+## 🌟 Innovation Highlights
+
+```
+╭─────────────────────────────────────╮
+│ ✨ Obsessed With Excellence         │
+│ 🔥 Passionate About Impact          │
+│ ⚙️  Driven By Innovation            │
+│                                      │
+│ 🛠️ Building Tomorrow's Solutions    │
+│ 🎯 Focus: Healthcare Tech & AI      │
+│ 📚 Year 2 | VIT Pune | B.Tech CSE  │
+╰─────────────────────────────────────╯
+```
+
+---
+
+## 💼 Connect & Collaborate
 
 <div align="center">
 
-| Metric | Stat | Trend |
-|--------|------|-------|
-| **Contributions** | 135+ | 📈 Climbing |
-| **Repositories** | 16+ | 📈 Growing |
-| **Focus Areas** | 4 Core | 🏆 Mastering |
-| **Impact Projects** | 8 Live | 🚀 Launching |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekbhangdiya)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek2586)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekbhangdiya@example.com)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek2586&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)](https://github.com/Abhishek2586)
 
 </div>
 
 ---
-
-## 🌈 TECH MATRIX
-
-```
-💫 LANGUAGES              🌐 WEB                   🤖 AI/ML
-  Python (95%)           React (80%)            PyTorch (85%)
-  SQL (95%)              Node.js (80%)          TensorFlow (80%)
-  TypeScript (90%)       Express (80%)          Medical AI (85%)
-  C (85%) | Java (80%)   REST API (85%)         Computer Vision
-```
-
----
-
-## 🐟 MISSION
-
-> **🏥 Healthcare Technology | 🤖 AI Innovation | 🚀 Problem Solving**
-
-**Obsession:** Building systems that save lives  
-**Excellence:** Writing clean, scalable code  
-**Impact:** Transforming ideas into reality  
-
----
-
-## 🌟 CONNECT
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhishekbhangdiya)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhishek2586)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:abhishekbhangdiya@example.com)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek2586&show_icons=true&theme=tokyonight&hide_border=true)
-
+<p><b>🚀 Turning Ideas Into Impact | One Commit At A Time 🚀</b></p>
+<p><em>Always learning, always building, always innovating</em></p>
 </div>
-
----
-
-<p align="center">
-  <b>🚀 Building Tomorrow Today 🚀</b> <br>
-  <i>Last Updated: December 2025</i>
-</p>
