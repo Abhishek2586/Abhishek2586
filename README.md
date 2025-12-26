@@ -1,169 +1,119 @@
 # 🚀 ABHISHEK BHANGDIYA
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+Healthcare+Tech;Full-Stack+Developer;System+Architect;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Healthcare+Tech;Full-Stack+Architect;System+Optimizer;Healthcare+Innovator" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <b>B.Tech CSE AI/ML | VIT Pune | Year 2</b><br>
-  <i>Building intelligent solutions that matter</i>
+  <b>B.Tech CSE AI/ML | VIT Pune | Year 2</b> <br>
+  <i>🚀 Coding Intelligence | 🏥 Healthcare Impact | 🚀 Problem Solver</i>
 </p>
 
 ---
 
-## 🚀 PROJECTS AT A GLANCE
+## 🎉 PROJECTS ECOSYSTEM
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🏙️ **SY: UrbanNest**
-**Society Management** | HTML, CSS, SQL
+### 🏙️ SY PROJECTS (4 Innovations)
 
 ```
-────────────────
-📊 Dashboard
-💳 Billing Engine  
-📁 Records DB
-💬 Complaints
-────────────────
-100% Digital | 0% Paperwork
+╔═══════════════════════════════╗
+║  🏙️ URBANNEST  ║  🫁 LUNG DETECTION  ║
+╠════════════════╪════════════════╧
+║ DBMS | SQL | Full Stack  ║ TypeScript | AI | TensorFlow ║
+╟────────────────╢────────────────╘
+║  ⚡ Dashboard       ║  🧰 ML Model      ║
+║  💳 Billing System ║  📊 Analytics    ║
+║  📁 Records DB    ║  ✅ 95% Accuracy   ║
+║  💬 Complaints    ║  🎯 Real-time      ║
+╚════════════════╫════════════════╝
+
+╔═══════════════════════════════╗
+║  ⏰ JOB SCHEDULER  ║  👥 HR MANAGEMENT║
+╠════════════════╪════════════════╧
+║ C | DSA | Algorithms║ Java | OOP | Design    ║
+╟────────────────╢────────────────╘
+║  › FCFS          ║  👤 Employee DB  ║
+║  › Priority      ║  💰 Payroll Auto ║
+║  › Round Robin   ║  📅 Attendance   ║
+║  › SJF (40%⚡)   ║  📑 Analytics    ║
+╚════════════════╫════════════════╝
 ```
 
-</td>
-<td width="50%" align="center">
+### 🎵 FY PROJECTS (Foundation)
 
-### 🫁 **SY: Lung Detection**
-**Medical AI** | TypeScript, TensorFlow
-
-```
-────────────────
-🧰 ML Model
-📊 Analysis
-⚡ Real-time
-🎯 95% Accuracy
-────────────────
-Lives Saved >> Data Points
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### ⏰ **SY: Job Scheduling**
-**Algorithms** | C, DSA
-
-```
-────────────────
-📈 FCFS
-📈 Priority
-📈 RR
-📈 SJF
-────────────────
-40% Speed ⚡
-```
-
-</td>
-<td width="50%" align="center">
-
-### 👥 **SY: HR Management**
-**OOP Design** | Java
-
-```
-────────────────
-👤 Employees
-💰 Payroll
-📅 Attendance
-📑 Analytics
-────────────────
-1000+ Records | 50% Faster
-```
-
-</td>
-</tr>
-</table>
+| 🎵 | Tech | Impact | Stars |
+|---|------|--------|-------|
+| 🎮 **Fruit Ninja** | Python/Pygame | Game Dev | ⭐⭐⭐⭐ |
+| 💰 **Finance Site** | Full-Stack/HTML | Web Dev | ⭐⭐⭐⭐ |
+| ❤️ **NEXORA** | TypeScript/React | Healthcare | ⭐⭐⭐⭐⭐ |
+| 🎯 **LaserTracker** | Python/OpenCV | Vision AI | ⭐⭐⭐⭐⭐ |
 
 ---
 
-## 🎵 FOUNDATION PROJECTS (Year 1)
-
-| Project | Tech | Outcome |
-|---------|------|----------|
-| 🎮 **Fruit Ninja Game** | Python/Pygame | Game Dev Mastery |
-| 💰 **Finance Site** | Full-Stack | Web Architecture |
-| ❤️ **NEXORA-HEALTH** | React/TypeScript | Healthcare Focus |
-| 🎯 **LaserHandTracker** | Python/OpenCV | Vision AI |
-
----
-
-## 🚀 SKILL SPECTRUM
+## 🚀 SKILL CONSTELLATION
 
 ```
-💪 CORE         🤖 AI/ML          🚠 SYSTEMS
-█████ Python     ████ TensorFlow    ████ DSA
-████ SQL        ████ Deep Learning ████ Algorithms
-████ TypeScript ███ Medical AI    ███ Design
-███ C/Java     ███ Image Process ██ Databases
+💫 CORE            🤖 INTELLIGENCE      🚠 ARCHITECTURE
+█████ Python         ████ TensorFlow      ████ Algorithms
+█████ SQL           ████ Deep Learning   ████ System Design
+████ TypeScript    ███ Medical AI      ████ OOP Patterns
+███ C/Java        ███ Image Proc      ███ Databases
 ```
 
 ---
 
-## 📊 IMPACT SNAPSHOT
+## 📊 DEVELOPER METRICS
 
 <div align="center">
 
-| Metric | Value | Emoji |
-|--------|-------|-------|
-| **Contributions** | 135+ | ⚡ |
-| **Repositories** | 16+ | 📚 |
-| **Projects** | 8 Major | 🏆 |
-| **Focus Areas** | 4 Core | 💡 |
+| Metric | Stat | Trend |
+|--------|------|-------|
+| **Contributions** | 135+ | 📈 Climbing |
+| **Repositories** | 16+ | 📈 Growing |
+| **Focus Areas** | 4 Core | 🏆 Mastering |
+| **Impact Projects** | 8 Live | 🚀 Launching |
 
 </div>
 
 ---
 
-## 💼 TECH STACK MATRIX
+## 🌈 TECH MATRIX
 
 ```
-💫 LANGUAGES       🌐 WEB              🤖 AI/ML
-├─ Python (95%)      ├─ React (80%)      ├─ PyTorch (85%)
-├─ SQL (95%)         ├─ Node.js (80%)    ├─ TensorFlow (80%)
-├─ TypeScript (90%)  ├─ Express (80%)    ├─ Medical AI (85%)
-├─ C (85%)           └─ REST API (85%)   └─ Computer Vision (80%)
-└─ Java (80%)
+💫 LANGUAGES              🌐 WEB                   🤖 AI/ML
+  Python (95%)           React (80%)            PyTorch (85%)
+  SQL (95%)              Node.js (80%)          TensorFlow (80%)
+  TypeScript (90%)       Express (80%)          Medical AI (85%)
+  C (85%) | Java (80%)   REST API (85%)         Computer Vision
 ```
 
 ---
 
-## 🌟 MISSION
+## 🐟 MISSION
 
-> **AI for Healthcare | Code for Impact | Innovation Always**
+> **🏥 Healthcare Technology | 🤖 AI Innovation | 🚀 Problem Solving**
 
-툙2 Building systems that solve real problems  
-툙2 Pushing boundaries of what's possible  
-툙2 Creating meaningful impact through technology  
+**Obsession:** Building systems that save lives  
+**Excellence:** Writing clean, scalable code  
+**Impact:** Transforming ideas into reality  
 
 ---
 
-## 🐟 LET'S CONNECT
+## 🌟 CONNECT
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekbhangdiya)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abhishek2586)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abhishekbhangdiya@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhishekbhangdiya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhishek2586)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:abhishekbhangdiya@example.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek2586&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek2586&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)
-
-**Building Tomorrow, Today** 🚀  
-*Last Updated: December 2025*
-
-</div>
+<p align="center">
+  <b>🚀 Building Tomorrow Today 🚀</b> <br>
+  <i>Last Updated: December 2025</i>
+</p>
