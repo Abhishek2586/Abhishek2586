@@ -12,12 +12,12 @@
 ## 🎯 About Me
 
 ```
-┌─────────────────────────────────────────┐
-│  📍 B.Tech CSE AI/ML | Year 2 | VIT Pune │
-│  🎓 Focus: Medical AI & Automation       │
+┌───────────────────────────────────────────┐
+│  📍 B.Tech CSE AI/ML | Year 2 | VIT Pune  │
+│  🎓 Focus: Medical AI & Automation        │
 │  💡 Passion: Problem Solving & Innovation │
 │  🚀 Building: Healthcare Solutions        │
-└─────────────────────────────────────────┘
+└───────────────────────────────────────────┘
 ```
 
 ---
