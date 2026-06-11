@@ -20,7 +20,41 @@
 
 ---
 
-## 🐱 Who is this guy and why is he awake at 2 AM?
+## 💻 Boot Sequence
+
+```bash
+abhishek@vit-pune:~$ whoami
+> Abhishek Bhangdiya — AI/ML Engineer-in-training, Healthcare AI focus
+
+abhishek@vit-pune:~$ cat status.log
+[PUBLISHED]  PulmoScan AI ............. ICTEAH 2026, KJ Somaiya College
+[IN REVIEW]  ScriptCare ................ CV + HTR + NER + LLM pipeline
+[SHIPPED]    LocalXplorer .............. live PWA, Lighthouse 90+
+[BUILT 48H]  CostSentinel .............. ET Gen AI Hackathon 2026 (solo)
+[FILED]      NEXORA Health ............. patent examination stage
+
+abhishek@vit-pune:~$ echo $CURRENTLY_LEARNING
+"Agentic systems at scale, RAG that actually retrieves, sleep > 5hrs"
+
+abhishek@vit-pune:~$ ./availability --check
+✅ open_to_internships=true
+✅ open_to_research_collabs=true
+✅ open_to_cool_ideas=true
+```
+
+<div align="center">
+
+![Ask](https://img.shields.io/badge/Ask%20me%20about-Computer%20Vision-58a6ff?style=flat-square)
+![Ask](https://img.shields.io/badge/Ask%20me%20about-Multi--Agent%20AI-58a6ff?style=flat-square)
+![Ask](https://img.shields.io/badge/Ask%20me%20about-RAG%20%26%20LLMs-58a6ff?style=flat-square)
+![Ask](https://img.shields.io/badge/Ask%20me%20about-Healthcare%20AI-58a6ff?style=flat-square)
+![Ask](https://img.shields.io/badge/Ask%20me%20about-Full--Stack%20React-58a6ff?style=flat-square)
+
+</div>
+
+---
+
+## 🧬 System Profile
 
 <img align="right" width="195" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cat on keyboard"/>
 
@@ -51,6 +85,20 @@ status:        "open_to: [internships, research_collabs, cool_ideas]"
 ```
 
 <br clear="right"/>
+
+---
+
+## 🗺️ The Build Log — 2024 → 2028
+
+```mermaid
+timeline
+    title From "Hello World" to a paper under review
+    2024 : Started B.Tech AIML @ VIT Pune : Joined IEEE CIS & GedIT Coding Club
+    2025 : Built LASERHANDTRACKER (real-time CV) & Fruit Ninja Pro : Shipped UrbanNest DBMS, Job Scheduling (C), Employee Mgmt (Java)
+    2026 H1 : Infosys Springboard Internship — built File-AI (RAG) : PulmoScan AI published @ ICTEAH 2026 : CostSentinel — ET Gen AI Hackathon, solo
+    2026 H2 : ScriptCare paper submitted & under review : NEXORA Health reaches patent examination : LocalXplorer shipped live, Lighthouse 90+
+    2027-28 : Open to research internships & collabs : Targeting grad-level ML research
+```
 
 ---
 
@@ -152,7 +200,60 @@ Full-featured banking simulation with secure transaction workflows, account mana
 
 ---
 
-## 📦 All Repositories
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,html,css,react,nodejs,fastapi,flask,firebase,mongodb,mysql,sqlite,docker,git,github,linux,opencv,pytorch,tensorflow,figma,vscode&theme=dark&perline=12"/>
+
+<br/><br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=Abhishek2586&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&rank_icon=github&include_all_commits=true" alt="Abhishek's GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="168" src="https://streak-stats.demolab.com?user=Abhishek2586&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b25&currStreakLabel=58a6ff&sideLabels=7d8590&dates=7d8590" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek2586&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" alt="Contribution Activity Graph"/>
+
+<br/><br/>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2586&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css,scss" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek2586&theme=darkhub&no-frame=true&column=6&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<details>
+<summary>📦 <b>Click to explore all repositories</b></summary>
+<br/>
 
 <div align="center">
 
@@ -171,72 +272,7 @@ Full-featured banking simulation with secure transaction workflows, account mana
 
 </div>
 
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**AI · ML · Agentic**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-
-**Web · Cloud · Databases**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=Abhishek2586&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&rank_icon=github&include_all_commits=true" alt="Abhishek's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="168" src="https://streak-stats.demolab.com?user=Abhishek2586&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b25&currStreakLabel=58a6ff&sideLabels=7d8590&dates=7d8590" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2586&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css,scss" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek2586&theme=darkhub&no-frame=true&column=6&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+</details>
 
 ---
 
